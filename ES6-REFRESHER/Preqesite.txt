@@ -1,0 +1,7 @@
+1. Fat Arrow Function -> callback function
+3. classes and object
+2. Modules(import/export)
+7. async await and promise
+4. destructuring
+5. rest and spread operator
+6. map-reduce-filter higher order function or method
